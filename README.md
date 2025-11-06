@@ -50,7 +50,6 @@ Assiut-Sheets/
  │    ├── C.cpp
  │    └── ...
  │
- │
  └── Sheet-10/
       └── ...
 </pre>
