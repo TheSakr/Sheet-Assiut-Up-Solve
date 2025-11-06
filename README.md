@@ -7,9 +7,12 @@
 <h1 align="center">🧠 Assiut University Problem Sheets – C++ Solutions</h1>
 
 <p align="center">
-  Welcome to my collection of <strong>Assiut University problem sheet solutions</strong> written in <strong>C++</strong>.<br>
-  This repository is part of my journey to practice and strengthen programming fundamentals while following clean code principles.
+  Hello 👋 and welcome to this repository!<br>
+  I created this repo to share my <strong>solutions for the Assiut University problem sheets</strong> written in <strong>C++</strong>.<br>
+  It contains some of my personal solutions and it also serves as a <strong>useful reference</strong> for students who might solve these problems in the future.<br>
+  I hope this helps others learn, improve, and write cleaner code while practicing problem-solving.
 </p>
+
 
 <hr>
 
