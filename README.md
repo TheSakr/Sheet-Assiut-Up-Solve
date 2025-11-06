@@ -130,16 +130,16 @@ Assiut-Sheets/
   <li>Don’t copy blindly — learn the thinking process behind the solution.</li>
 </ul>
 
-<p><em>Remember: The goal isn’t just to solve the problem, but to understand why the solution works.</em></p>
+<p><b>Remember: The goal isn’t just to solve the problem, but to understand why the solution works.</b></p>
 
 <hr>
 
 <h2>👨‍💻 Author</h2>
 <p>
   <strong>Muhammad Sakr</strong><br>
-  📍 Assiut University<br>
+  📍 Zagazig University<br>
   💬 Passionate about coding, learning, and sharing knowledge.<br>
-  🔗 <a href="https://github.com/YourUsername" target="_blank">GitHub Profile</a>
+  🔗 <a href="https://github.com/YourTheSakr" target="_blank">GitHub Profile</a>
 </p>
 
 <hr>
