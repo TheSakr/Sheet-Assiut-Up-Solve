@@ -42,26 +42,6 @@ Assiut-Sheets/
  │    ├── C.cpp
  │    └── ...
  │
- ├── Sheet-3/
- │    └── ...
- │
- ├── Sheet-4/
- │    └── ...
- │
- ├── Sheet-5/
- │    └── ...
- │
- ├── Sheet-6/
- │    └── ...
- │
- ├── Sheet-7/
- │    └── ...
- │
- ├── Sheet-8/
- │    └── ...
- │
- ├── Sheet-9/
- │    └── ...
  │
  └── Sheet-10/
       └── ...
@@ -127,22 +107,7 @@ Assiut-Sheets/
   <tr>
     <td>Sheet 1</td>
     <td>✅ Completed</td>
-    <td>20/20</td>
-  </tr>
-  <tr>
-    <td>Sheet 2</td>
-    <td>✅ Completed</td>
-    <td>15/15</td>
-  </tr>
-  <tr>
-    <td>Sheet 3</td>
-    <td>⚙️ In Progress</td>
-    <td>8/20</td>
-  </tr>
-  <tr>
-    <td>Sheet 4</td>
-    <td>⏳ Coming Soon</td>
-    <td>0/20</td>
+    <td>26/26</td>
   </tr>
 </table>
 
