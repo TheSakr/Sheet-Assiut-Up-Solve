@@ -65,15 +65,19 @@ Assiut-Sheets/
   Through these sheets, I’ve covered a wide range of C++ topics, starting from the basics to more advanced concepts:
 </p>
 <ul>
-  <li>Input / Output operations</li>
-  <li>Conditional statements (<code>if</code>, <code>else if</code>, <code>switch</code>)</li>
-  <li>Loops (<code>for</code>, <code>while</code>, <code>do-while</code>)</li>
-  <li>Mathematical logic and expressions</li>
-  <li>Functions and modular programming</li>
-  <li>Arrays and multidimensional arrays</li>
-  <li>Strings and character manipulation</li>
-  <li>Basic algorithms and problem-solving strategies</li>
-  <li>Simple mathematical patterns and equations</li>
+  <li>Sheet #1 (Data type - Conditions)</li>
+  <li>Contest #1</li>
+  <li>Sheet #2 (Loops)</li>
+  <li>Contest #2</li>
+  <li>Sheet #3 (Arrays)</li>
+  <li>Contest #3.1</li>
+  <li>Sheet #4 (Strings)</li>
+  <li>Sheet #5 (Functions)</li>
+  <li>Sheet #6 (Math - Geometry)</li>
+  <li>Sheet #7 (Recursion)</li>
+  <li>Sheet #8 (General easy)</li>
+  <li>Sheet #9 (General medium)</li>
+  <li>Sheet #10 (General Hard)</li>
 </ul>
 
 <hr>
