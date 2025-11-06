@@ -139,15 +139,22 @@ Assiut-Sheets/
   <strong>Muhammad Sakr</strong><br>
   📍 Zagazig University<br>
   💬 Passionate about coding, learning, and sharing knowledge.<br>
-  🔗 <a href="https://github.com/YourTheSakr" target="_blank">GitHub Profile</a>
+  🔗 <a href="https://github.com/TheSakr" target="_blank">GitHub Profile</a>
 </p>
 
 <hr>
 
 <h2>🌟 Acknowledgements</h2>
 <p>
-  Special thanks to <strong>Assiut University</strong> and its Computer Science community for providing such a great platform to practice and improve problem-solving skills.
+  Special thanks to <strong>Assiut University</strong> and the <strong>Computer Science community</strong>  
+  for providing an excellent environment to learn, practice, and enhance problem-solving skills.  
+  I truly appreciate the effort put into creating these problem sheets that help students grow and improve in programming.
 </p>
+
+<p>
+  🙏 Thanks to everyone who supported and inspired this learning journey.
+</p>
+
 
 <p>
   If you found this repository helpful, don’t forget to ⭐ it and share it with others who are also learning C++!
@@ -155,5 +162,6 @@ Assiut-Sheets/
 
 <!-- ✅ COMMENT: Add your own links, portfolio, or contact info below -->
 <p align="center">
-  🖥️ <a href="https://github.com/YourUsername">View More Projects on GitHub</a>
+  Made with ❤️ for the <strong>Competitive Programming</strong> community.
 </p>
+
