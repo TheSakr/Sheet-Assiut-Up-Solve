@@ -55,14 +55,7 @@ Assiut-Sheets/
 </pre>
 
 <p>
-  <!-- ✅ COMMENT: You can add or remove sheets depending on your progress -->
-  Each problem file includes:
-  <ul>
-    <li>A clear problem title</li>
-    <li>Code written in standard C++</li>
-    <li>Inline comments explaining the logic</li>
-    <li>Readable variable names</li>
-  </ul>
+  Each file contains a C++ solution with clean code and explanatory comments that clarify the logic.
 </p>
 
 <hr>
