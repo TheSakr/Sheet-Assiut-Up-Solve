@@ -15,10 +15,15 @@
 
 <h2>📜 About This Repository</h2>
 <p>
-  This project includes my personal solutions to all problem sheets from Assiut University (Programming 1 – C++).  
-  Every solution was tested carefully and written with simplicity and readability in mind.  
-  The main goal is to help beginners understand how to approach problems, write efficient code, and develop logical thinking.
+  This repository is a complete collection of my personal solutions for the <strong>Assiut University Problem Sheets</strong> written in <strong>C++</strong>.  
+  It was created to track my progress, share my learning journey, and help other students understand how to approach problem-solving effectively.  
+  Each file inside represents an actual problem I solved step by step, using clean logic and proper coding style.  
+  You’ll find explanations, structured code, and comments that make it easier to follow along and learn.  
+  <br><br>
+  The main purpose of this project is not only to provide answers, but also to build a strong foundation in <strong>programming logic</strong>, <strong>algorithmic thinking</strong>, and <strong>clean C++ coding practices</strong>.  
+  Whether you’re a beginner or improving your problem-solving skills, this repository can be a great reference and guide.
 </p>
+
 
 <hr>
 
