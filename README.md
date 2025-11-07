@@ -55,7 +55,7 @@ Assiut-Sheets/
 </pre>
 
 <p>
-  Each file contains a C++ solution with clean code and explanatory comments that clarify the logic.
+  Each file contains a C++ solution with clean code.
 </p>
 
 <hr>
