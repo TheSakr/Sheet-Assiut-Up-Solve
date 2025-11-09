@@ -82,25 +82,6 @@ Assiut-Sheets/
 
 <hr>
 
-<h2>🚀 How to Run the Code</h2>
-<ol>
-  <li>Clone the repository to your local machine:</li>
-  <pre><code>git clone https://github.com/YourUsername/Assiut-Sheets.git</code></pre>
-
-  <li>Navigate to the desired sheet folder, for example:</li>
-  <pre><code>cd Assiut-Sheets/Sheet-1</code></pre>
-
-  <li>Open any problem file in your preferred editor (VS Code, Dev-C++, Code::Blocks, etc.)</li>
-
-  <li>Compile and run the file:</li>
-  <pre><code>g++ ProblemName.cpp -o output
-./output</code></pre>
-
-  <li>Check the output in your terminal or console window.</li>
-</ol>
-
-<hr>
-
 <h2>📊 Progress Tracker</h2>
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
