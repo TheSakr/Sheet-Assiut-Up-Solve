@@ -90,12 +90,12 @@ Assiut-Sheets/
     <th>Problems Solved</th>
   </tr>
   <tr>
-    <td>Sheet 1</td>
+    <td>Sheet #1 (Data type - Conditions)</td>
     <td>✅ Completed</td>
     <td>26/26</td>
   </tr>
   <tr>
-    <tdContest 1</td>
+    <td>Contest #1</td>
     <td>✅ Completed</td>
     <td>9/9</td>
   </tr>
