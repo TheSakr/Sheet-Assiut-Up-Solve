@@ -94,6 +94,11 @@ Assiut-Sheets/
     <td>✅ Completed</td>
     <td>26/26</td>
   </tr>
+  <tr>
+    <tdContest 1</td>
+    <td>✅ Completed</td>
+    <td>9/9</td>
+  </tr>
 </table>
 
 <!-- ✅ COMMENT: You can edit the numbers and status as you finish more sheets -->
